@@ -22,6 +22,7 @@ instance_type      = "t2.micro"
 key_name           = "vockey"
 subscription_email = "tu-email@correo.com"
 ```
+o recuerda reallizar los cambios convenientes en el main.tf de la raiz.
 ## Inicializar el Proyecto
 - Clona este repositorio en tu máquina local.
 - Navega al directorio del proyecto.
