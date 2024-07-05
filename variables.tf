@@ -1,6 +1,6 @@
 variable "aws_region" {
   description = "AWS region"
-  default     = "us-east-1"
+  default     = "tu region"
 }
 
 variable "vpc_cidr_block" {
@@ -31,5 +31,5 @@ variable "instance_type" {
 variable "subscription_email" {
   description = "Email address to subscribe to the SNS topic."
   type        = string
-  default     = "carol.burgos@tajamar365.com"
+  default     = "tu-eamil@correo.com"
 }
